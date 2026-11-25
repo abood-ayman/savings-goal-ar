@@ -4,6 +4,8 @@ Plan a savings goal: how many months you need, or how much to save monthly to ar
 
 **Live app:** https://abood-ayman.github.io/savings-goal-ar/
 
+**LinkedIn:** [Project entry](https://www.linkedin.com/in/abdullah-ayman-1678b737b/details/projects/)
+
 ![Savings Goal Calculator, mobile view](docs/screenshot.svg)
 
 This is a personal project, built with AI tools.
