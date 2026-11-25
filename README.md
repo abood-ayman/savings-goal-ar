@@ -1,28 +1,27 @@
-# حاسبة هدف التوفير
+# Savings Goal Calculator | حاسبة هدف التوفير
 
-خطط لهدفك: موبايل جديد، رحلة، جهاز لابتوب — واعرف كم تدخر شهريًا
+Plan a savings goal: how many months you need, or how much to save monthly to arrive on a set date, with optional annual return. Arabic interface.
 
-**رابط الأداة (تعمل فورًا من المتصفح):** https://abood-ayman.github.io/savings-goal-ar/
+**Live app:** https://abood-ayman.github.io/savings-goal-ar/
 
-## ما الذي تقدمه؟
+![Savings Goal Calculator, mobile view](docs/screenshot.svg)
 
-- كم شهرًا تحتاج بمبلغ التوفير الشهري الحالي؟
-- وكم يجب أن تدخر شهريًا لتصل في موعد تحدده؟
-- عائد سنوي اختياري (شهادات أو ودائع) يُحسب بتراكم شهري
-- جدول بأول سنة من التراكم شهرًا بشهر
+This is a personal project, built with AI tools.
 
-## الخصوصية
+## Features
+- How many months you need at your current monthly saving
+- How much to save monthly to hit a target date
+- Optional annual return (certificates or deposits) compounded monthly
+- Table of the first year of growth, month by month
 
-تعمل الأداة بالكامل داخل متصفحك (HTML/CSS/JavaScript فقط). لا يوجد خادم، ولا حسابات، ولا تتبّع، ولا تُرسل أو تُحفظ أي بيانات تدخلها خارج جهازك.
+## Privacy
+Everything runs in your browser. No data is stored or sent anywhere.
 
-## التقنية
+## Run locally
+Open `index.html` in any browser. It is a single static page with no dependencies.
 
-صفحة ثابتة واحدة بلا أي مكتبات خارجية، تعمل على الهاتف والحاسوب، وتُستضاف مجانًا عبر GitHub Pages.
+## Status
+Stable.
 
-## ملاحظة شفافية
-
-بُنيت هذه الأداة بمساعدة أدوات ذكاء اصطناعي، ورُوعيَت بساطتها وفائدتها المباشرة.
-
-## الرخصة
-
-MIT — انظر ملف LICENSE.
+## Copyright
+MIT License - Copyright (c) 2026 Abdullah Ayman.
